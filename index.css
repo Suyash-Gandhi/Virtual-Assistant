@@ -1,7 +1,5 @@
 *{
     margin: 0%;
-    
-    
 }
 .main{
     height: 100vh;
@@ -60,8 +58,7 @@
     align-items: center;
     font-size: 1.2rem;
     border-radius: 10px;
-    cursor: pointer;
-    
+    cursor: pointer; 
 }
 .speak i{
     font-size: 20px;
