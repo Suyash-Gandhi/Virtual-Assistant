@@ -6,11 +6,10 @@ When you open the app, ECHO greets you based on the time of day and listens for 
 
 
 ## 🧐 Features    
-- Voice-Activated: Click the microphone button to give command.
 - Web Search: It can search the web using Google for questions starting with "what," "who," etc
 - Website Opening: It can open websites when you say "open" followed by the website name (e.g., "open YouTube").
 - Date and Time: ECHO can tell you the current date and time when asked.
-- Greeting: I greets you with "Good Morning," "Good Afternoon," or "Good Evening" based on the current time.
+- Greeting: It greets you with "Good Morning," "Good Afternoon," or "Good Evening" based on the current time.
   
  
 
