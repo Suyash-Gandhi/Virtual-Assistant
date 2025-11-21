@@ -58,7 +58,7 @@ function takeCommand(message) {
             }
             else (speak(`sorry i cant open it`))
         }
-        else if (message.includes('what is' || message.includes('what was ') || message.includes('what were ') || message.includes(' what are') || message.includes('who is ') || message.includes('who was') || message.includes('who are ') || message.includes('who were'))) {
+        else if (message.includes('what is') || message.includes('what was ') || message.includes('what were ') || message.includes(' what are') || message.includes('who is ') || message.includes('who was') || message.includes('who are ') || message.includes('who were')) {
             const search = message.replace(/\s/g, '+');
             speak(`searching for ${message}`);
             console.log("searching for :", `${message}`); // Debug log
@@ -85,6 +85,7 @@ function takeCommand(message) {
         speak("i am unable to do as you command");
     }
 }
+
 
 
 
